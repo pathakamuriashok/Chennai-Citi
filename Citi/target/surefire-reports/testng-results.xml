@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main Test Suite" duration-ms="14391" started-at="2019-11-24T15:23:57Z" finished-at="2019-11-24T15:24:11Z">
+    <groups>
+    </groups>
+    <test name="TestNG Test Group1" duration-ms="14391" started-at="2019-11-24T15:23:57Z" finished-at="2019-11-24T15:24:11Z">
+      <class name="Com.DriverSetUp.BrowserLaunch">
+        <test-method status="PASS" signature="ChromeDriver()[pri:0, instance:Com.DriverSetUp.BrowserLaunch@71423665]" name="ChromeDriver" is-config="true" duration-ms="6199" started-at="2019-11-24T15:23:57Z" finished-at="2019-11-24T15:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeDriver -->
+        <test-method status="PASS" signature="Url_Launch()[pri:1, instance:Com.DriverSetUp.BrowserLaunch@71423665]" name="Url_Launch" duration-ms="8148" started-at="2019-11-24T15:24:03Z" finished-at="2019-11-24T15:24:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url_Launch -->
+      </class> <!-- Com.DriverSetUp.BrowserLaunch -->
+    </test> <!-- TestNG Test Group1 -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
